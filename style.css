@@ -1,0 +1,154 @@
+.navi{ 
+    display: flex;
+    justify-content: space-evenly; 
+    padding-right: 12px; 
+    padding-left:12px ;
+    margin-top: 0px;
+    font-size: medium; 
+    background-color: brown;
+    border-radius: 2em; 
+    font-style: italic;
+
+}
+.navi a{
+    color: rgb(253, 254, 255); 
+    text-decoration: none;
+}
+body{
+    background-color:white(245, 245, 245);
+    margin:100px; 
+    font-size: medium; 
+} 
+.mots{
+    text-decoration: underline; 
+    text-decoration-color: rgb(69, 116, 163);
+
+} 
+ .up{
+font-size: larger;
+color: rgb(3, 3, 3); 
+} 
+.np{ 
+    text-decoration: underline; 
+   
+} 
+.one{
+    padding: 30px;
+    margin: 30px;
+} 
+.pic1{
+    width: 450px;
+    height: 450px;
+} 
+.hi{
+    text-decoration: underline; 
+    text-decoration-color: sandybrown;  
+    color: brown;
+
+} 
+.two{
+    padding: 30px;
+    margin: 30px;
+} 
+ 
+.pic2{
+    width: 450px;
+    height: 450px ;
+} 
+.pic3{
+    width: 500px;
+    height: 600px;
+} 
+.b2{
+    color: rgb(194, 132, 132); 
+    text-decoration: underline; 
+    text-decoration-color: rgb(173, 139, 139); 
+    font-style: italic;
+} 
+#h{
+    width: 600px; 
+    height: 10px;
+}
+.navi >h1{
+    background-color:rgb(218, 194, 218);
+} 
+.foot{ 
+    padding-right: 20px; 
+    padding-left:20px ;
+    margin-top: 0px;
+    font-size: larger; 
+    background-color: brown;
+    border-radius: 2em;
+    font-style: italic; 
+    color: rgb(253, 254, 255); 
+    text-decoration: none;
+} 
+.food{
+    width: 300px;
+    height: 300px; 
+    margin-right: 45px;
+} 
+.title{
+    font-size: x-large;
+    font-style: italic;
+    color: rgb(160, 79, 79);  
+margin-top: 0px;
+padding:0px ;
+
+    
+}
+.ip{
+    color: brown ;
+}
+.pi{
+    margin-top: 10px;
+    align-items: baseline;
+}     
+#class{
+    font-style: italic; 
+    color: rgba(97, 63, 63, 0.568); 
+    font-size: xx-large; 
+
+    
+} 
+ .hi{ 
+    font-style: italic; 
+    text-decoration: underline;
+ text-decoration-color:gba(241, 0, 0, 0.219);
+ } 
+.img{
+    width: 150px;
+    height:150px; 
+    border-radius: 40em;    
+    margin-left:150px ;
+
+    
+} 
+.notice >h2{ 
+    color: red; 
+    font-size: x-large; 
+
+
+} 
+.close{
+    width: 150px;
+    height:150px;
+    padding:50px
+
+} 
+.F{
+    border: 0;
+    
+} 
+.F input {
+    background-color: rgba(194, 132, 132, 0.288); 
+    color: rgb(114, 114, 114);
+    margin-bottom: 10px;
+} 
+.S{ 
+    text-decoration: underline;
+    text-align: center; 
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(143, 110, 69);
+}
